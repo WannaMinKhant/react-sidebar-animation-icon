@@ -1,0 +1,1 @@
+# react-sidebar-animation-icon
